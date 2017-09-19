@@ -8,5 +8,6 @@ _setup()
 //#-editable-code Tap to enter code
 let circle = Circle()
 circle.draggable = true
+circle.draggable = false
 
 //#-end-editable-code
